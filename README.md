@@ -1,8 +1,9 @@
 Flutter App for Springboard
-This is a Flutter app created by [Your Name] that includes all the functionalities of the Springboard website. The app is built using Flutter and Dart programming languages and can be run on both Android and iOS devices.
+
+This is a Flutter app created by Sufiyan Khan that includes all the functionalities of the Springboard website. The app is built using Flutter and Dart programming languages and can be run on both Android and iOS devices.
 
 Getting Started
-To get started with the app, you will need to have the Flutter SDK installed on your machine. You can follow the Flutter installation instructions to install the SDK.
+To get started with the app, you will need to have the Flutter SDK installed on your machine. You can follow the Flutter installation instructions toCancel changes install the SDK.
 
 Once you have installed the Flutter SDK, you can clone this repository and run the app using the following command:
 
